@@ -1,4 +1,4 @@
-# H# Hotel Booking Cancellation Prediction
+# Hotel Booking Cancellation Prediction
 
 ## 📌 Project Overview
 This project aims to predict whether a hotel booking will be canceled or not using machine learning techniques. By analyzing various features such as lead time, deposit type, and market segment, we can help hotels optimize their booking management and reduce revenue loss from cancellations.
@@ -29,8 +29,8 @@ You can run this project either on Google Colab or locally using VS Code.
 ### Option 2: VS Code (Local Environment)
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Seifmakled/hotelProject.git
-   cd hotelProject
+   git clone https://github.com/KarimAmr05/Hotel-Booking-Cancellation-Prediction.git
+   cd Hotel-Booking-Cancellation-Prediction
    ```
 
 2. **Install dependencies:**
